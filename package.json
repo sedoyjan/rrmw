@@ -30,6 +30,5 @@
     "rrmw": "index.js"
   },
   "dependencies": {
-    "line-by-line": "^0.1.5"
   }
 }
