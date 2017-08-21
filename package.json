@@ -1,0 +1,35 @@
+{
+  "name": "rrmw",
+  "version": "0.0.1",
+  "description": "it will help you create react-redux module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedoyjan/rrmw.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "npm",
+    "sedoyjan"
+  ],
+  "author": "Sergey Grigorev <sedoyjan@live.com> (https://sedoyjanru.firebaseapp.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedoyjan/rrmw/issues"
+  },
+  "homepage": "https://github.com/sedoyjan/rrmw#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  },
+  "bin": {
+    "rrmw": "index.js"
+  },
+  "dependencies": {
+    "line-by-line": "^0.1.5"
+  }
+}
