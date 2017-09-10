@@ -16,7 +16,7 @@ A small library that helps you to create react-redux module
 
 ## Result
 
-![N|Solid](https://image.ibb.co/hTBwBv/rrmw_Usage.png)]
+![N|Solid](https://image.ibb.co/hTBwBv/rrmw_Usage.png)
 
 ## Tests
 `npm test`
