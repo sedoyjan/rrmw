@@ -9,7 +9,7 @@ A small library that helps you to create react-redux module
 
 ## Installation
 
-  `npm install rrmw`
+`npm install rrmw`
 
 ## Usage
 `rrmw YourClassName`
