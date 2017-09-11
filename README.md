@@ -12,7 +12,10 @@ A small library that helps you to create react-redux module
 `npm install rrmw`
 
 ## Usage
-`rrmw YourClassName`
+`rrmw YourClassName` - you will get View with your class inside with Redux actions and reducers
+
+`rrmw YourClassName -s` - the same result, but your component will be stateless (clear function)
+
 
 ## Result
 
