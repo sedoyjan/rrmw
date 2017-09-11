@@ -1,5 +1,6 @@
 React Redux Module Writer
 =========
+![WithLoveBySedoyJan][sedurl]
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Build Status](https://travis-ci.org/sedoyjan/rrmw.svg?branch=master)](https://travis-ci.org/sedoyjan/rrmw)
@@ -32,3 +33,4 @@ A small library that helps you to create react-redux module
 [npm-url]: https://npmjs.org/package/rrmw
 [downloads-image]: https://img.shields.io/npm/dm/rrmw.svg
 [downloads-url]: https://npmjs.org/package/rrmw
+[sedurl]: https://img.shields.io/badge/withLoveBy-SedoyJan-brightgreen.svg
