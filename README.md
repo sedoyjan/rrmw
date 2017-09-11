@@ -14,7 +14,9 @@ A small library that helps you to create react-redux module
 ## Usage
 `rrmw YourClassName` - you will get View with your class inside with Redux actions and reducers
 
-`rrmw YourClassName -s` - the same result, but your component will be stateless (clear function)
+`rrmw YourClassName -c` - the same result, but your View will be a clear function
+
+`rrmw YourClassName -s` - you will get Stylesheet connected to your View
 
 
 ## Result
