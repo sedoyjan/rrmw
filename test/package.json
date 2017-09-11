@@ -1,0 +1,11 @@
+{
+  "name": "rrmwtest",
+  "version": "0.0.1",
+  "description": "tests for rrmw",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Grigorev <sedoyjan@live.com> (https://sedoyjanru.firebaseapp.com)",
+  "license": "ISC"
+}
