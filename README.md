@@ -27,7 +27,9 @@ A small library that helps you to create react-redux module
 ## Tests
 `npm test`
 
+## News
 
+v0.4.0 - now added Containers
 
 [npm-image]: https://img.shields.io/npm/v/rrmw.svg
 [npm-url]: https://npmjs.org/package/rrmw
