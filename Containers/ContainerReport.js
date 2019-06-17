@@ -3,14 +3,14 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import {
   // @rgen-import 
-} from '../Actions/Action#####'
-import View##### from '../Components/View#####'
+} from '../Actions/ActionReport'
+import ViewReport from '../Components/ViewReport'
 
-class Container##### extends Component {
+class ContainerReport extends Component {
 
   render() {
     return (
-      <View##### 
+      <ViewReport 
         {...this.props}
       />
     )
@@ -30,4 +30,4 @@ const mapDispatchToProps = (dispatch) => {
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(Container#####)
+)(ContainerReport)
